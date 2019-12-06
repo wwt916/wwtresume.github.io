@@ -1,0 +1,98 @@
+.time-horizontal {
+    list-style-type: none;
+    border-top: 4px solid #009999;
+    position:relative;top:160px;left:90px;
+    max-width: 1000px;
+    padding: 0px;
+    margin: 0px;
+}
+ 
+.time-horizontal li {
+    float: left;
+    position: relative;top:10px;
+    text-align: center;
+    font-family:"微軟正黑體";
+    font-size:30px;
+    color:#3B3B3B;
+    font-weight:bold;
+    width: 25%;
+    padding-top: 30px;
+}
+ 
+.time-horizontal li b:before {
+    content: '';
+    position: absolute;
+    top: -25px;
+    left: 44%;
+    width: 8px;
+    height: 8px;
+    border: 10px solid #009999;
+    border-radius: 50%;
+    background: #009999;
+}
+/*第二個*/
+.time-horizontal2 {
+    list-style-type: none;
+    border-top: 5px solid #009999;
+    position:relative;top:400px;left:90px;
+    max-width: 1000px;
+    padding: 0px;
+    margin: 0px;
+}
+ 
+.time-horizontal2 li {
+    float: left;
+    position: relative;top:-55px;
+    text-align: center;
+    font-family:"微軟正黑體";
+    font-size:30px;
+    color:#3B3B3B;
+    font-weight:bold;
+    width: 25%;
+    padding-top: 30px;
+}
+ 
+.time-horizontal2 li b:before {
+    content: '';
+    position: absolute;
+    top: -25px;
+    left: 44%;
+    width: 8px;
+    height: 8px;
+    border: 10px solid #009999;
+    border-radius: 50%;
+    background: #009999;
+}
+/*第三個*/
+.time-horizontal3 {
+    list-style-type: none;
+    border-top: 5px solid #009999;
+    position:relative;top:850px;left:90px;
+    max-width: 1000px;
+    padding: 0px;
+    margin: 0px;
+}
+ 
+.time-horizontal3 li {
+    float: left;
+    position: relative;top:-370px;
+    text-align: center;
+    font-family:"微軟正黑體";
+    font-size:30px;
+    color:#3B3B3B;
+    font-weight:bold;
+    width: 25%;
+    padding-top: 30px;
+}
+ 
+.time-horizontal3 li b:before {
+    content: '';
+    position: absolute;
+    top: -25px;
+    left: 44%;
+    width: 8px;
+    height: 8px;
+    border: 10px solid #009999;
+    border-radius: 50%;
+    background: #009999;
+}
