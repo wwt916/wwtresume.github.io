@@ -1,7 +1,7 @@
 .time-horizontal {
     list-style-type: none;
     border-top: 4px solid #009999;
-    position:relative;top:160px;left:90px;
+    position:relative;top:200px;left:90px;
     max-width: 1000px;
     padding: 0px;
     margin: 0px;
@@ -34,7 +34,7 @@
 .time-horizontal2 {
     list-style-type: none;
     border-top: 5px solid #009999;
-    position:relative;top:400px;left:90px;
+    position:relative;top:440px;left:90px;
     max-width: 1000px;
     padding: 0px;
     margin: 0px;
@@ -67,7 +67,7 @@
 .time-horizontal3 {
     list-style-type: none;
     border-top: 5px solid #009999;
-    position:relative;top:880px;left:90px;
+    position:relative;top:920px;left:90px;
     max-width: 1000px;
     padding: 0px;
     margin: 0px;
